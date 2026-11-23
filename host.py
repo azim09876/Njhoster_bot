@@ -48,8 +48,8 @@ def keep_alive():
 TOKEN = '9114923467:AAHvs-8HDJcz8wMv5eNF-p03WeLmhjJgrrU' # Replace with your actual token
 OWNER_ID = 7609926798 # Replace with your Owner ID
 ADMIN_ID = 7609926798 # Replace with your Admin ID (can be same as Owner)
-YOUR_USERNAME = '@Najmul_120' # Replace with your Telegram username (without the @)
-UPDATE_CHANNEL = '@bestsmshub' # Replace with your update channel link
+YOUR_USERNAME = 'Najmul_120' # Replace with your Telegram username (without the @)
+UPDATE_CHANNEL = 'https://t.me/bestsmshub' # Replace with your update channel link
 
 # Folder setup - using absolute paths
 BASE_DIR = os.path.abspath(os.path.dirname(__file__)) # Get script's directory
